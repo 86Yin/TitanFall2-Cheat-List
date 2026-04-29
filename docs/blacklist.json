@@ -1,0 +1,150 @@
+{
+    "version": 1,
+    "blacklisted": [
+        {
+            "type": "cheat",
+            "uid": "1015300282599",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1014444889408",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1017897971322",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1020386898906",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1014533915793",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1017644479726",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1014488484486",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1009058339060",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1010591601466",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1012059867103",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1006886289837",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1011555798857",
+            "description": "kokomi"
+        },
+        {
+            "type": "cheat",
+            "uid": "1018174376254",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1012580241203",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1003259324292",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1016847663166",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1011140890790",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1014709941569",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1010732965249",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1020794569115",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1003729173639",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1014957923829",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1015330426326",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1012578548679",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1013655309833",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1012933149836",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1013997663289",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1014226834936",
+            "description": ""
+        },
+        {
+            "type": "cheat",
+            "uid": "1004653083797",
+            "description": ""
+        }
+    ]
+}
